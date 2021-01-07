@@ -1,0 +1,7 @@
+Kami membuat email detector tools menggunakan selenium
+website yang di scan adalah
+- Twitter
+- Facebook
+- Instagram
+- Github
+- Adobe
